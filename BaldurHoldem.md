@@ -77,7 +77,7 @@ PCs and NPCs can take the Influence Action once per round to try and influence t
 #### Deception or Persuasion
 Try to lie about the strength or weakness of their hand. ::
 - **Contested by:** Insight 
-- **Success:** Get a feeling of the relative strength of your hand. Gain Advantage against Influence checks until the end of the next hand.
+- **Success:** Get a feeling of the relative strength of your hand. Gain Advantage on Influence actions until the end of the next hand.
 - **Failure:** Give away the relative strength of your hand and gain Disadvantage instead.
 
 #### Intimidation
