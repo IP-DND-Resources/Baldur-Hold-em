@@ -55,7 +55,20 @@ Ranked in descending order (top beats bottom)
   - Example: 3,3
 - **High Roll** (13.971%, High Number)
   - Example: Hand is 2,5,13,14,**15**
-  
+
+{{imageMaskCorner15,--offsetX:47%,--offsetY:-25%,--rotation:0
+  ![](https://raw.githubusercontent.com/IP-DND-Resources/Baldur-Hold-em/refs/heads/main/img/bruno-rodak-rpg-poker-color.jpg){height:1000px,right:-750px,bottom:-120px}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+     
+{{artist,bottom:90px,right:30px
+##### Fantasy RPG Poker
+[Bruno Rođak](https://www.artstation.com/artwork/RYZdxA?album_id=1261921)
+}}
+
+
 \page
 
 ### Influence Action
@@ -118,4 +131,16 @@ If an NPC successfully proves cheating, they immediately take an aggressive acti
 
 - **Sleight of Hand:** The accuser makes an Investigation check with a DC equal to the passive Sleight of Hand of the accused. 
 - **Magic:** The accuser makes an Arcana check against the spellcasting DC of the accused. 
+
+{{imageMaskCorner29,--offsetX:-50%,--offsetY:-63%,--rotation:0
+  ![](https://raw.githubusercontent.com/IP-DND-Resources/Baldur-Hold-em/refs/heads/main/img/iga-igson-oliwiak-artboard-2-copy-7.jpg){height:500px,bottom:0px,left:-65px}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
+{{artist,bottom:50px,left:440px
+##### Poker Night at the Stonehill Inn
+[Iga Oliwiak](https://www.artstation.com/artwork/OylKBv)
+}}
 
